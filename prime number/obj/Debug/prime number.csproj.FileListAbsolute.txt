@@ -1,0 +1,8 @@
+C:\Users\Ahmed Elemam\Desktop\project\prime number\prime number\bin\Debug\prime number.exe.config
+C:\Users\Ahmed Elemam\Desktop\project\prime number\prime number\bin\Debug\prime number.exe
+C:\Users\Ahmed Elemam\Desktop\project\prime number\prime number\bin\Debug\prime number.pdb
+C:\Users\Ahmed Elemam\Desktop\project\prime number\prime number\obj\Debug\prime number.csproj.AssemblyReference.cache
+C:\Users\Ahmed Elemam\Desktop\project\prime number\prime number\obj\Debug\prime number.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ahmed Elemam\Desktop\project\prime number\prime number\obj\Debug\prime number.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed Elemam\Desktop\project\prime number\prime number\obj\Debug\prime number.exe
+C:\Users\Ahmed Elemam\Desktop\project\prime number\prime number\obj\Debug\prime number.pdb
